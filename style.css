@@ -382,3 +382,7 @@ p {
 .selected{
     display:flex;
 }
+    #class{
+        /* width: 90px; */
+        padding: 1px;
+    }
