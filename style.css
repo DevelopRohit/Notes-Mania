@@ -374,5 +374,9 @@ p {
         width: 150px;
         height: 50px;
     }
+    #file{
+        padding: 20px;
+    }
+
 
 }
