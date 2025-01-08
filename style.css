@@ -194,7 +194,7 @@ label {
     background-color: white;
     height: 20vw;
     margin-top: 10px;
-    width: 27vw;
+    width: 25vw;
     border-radius: 30px;
     padding: 15px;
     text-align: center;
@@ -311,7 +311,7 @@ p {
     }
 
     .Mathematics {
-        height: 22vh;
+        height: 25vh;
         margin-top: 10px;
         width: 15vh;
     }
