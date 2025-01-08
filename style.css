@@ -378,5 +378,6 @@ p {
         padding: 20px;
     }
 
-
+.selected{
+    display:flex;
 }
